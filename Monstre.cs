@@ -1,0 +1,3 @@
+class Monstre:Personnage{
+    
+}
