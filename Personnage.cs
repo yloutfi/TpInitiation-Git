@@ -1,3 +1,6 @@
-class Heros:Personnage{
+class Personnage{
+    void frapper(Personnage personage, int force){
+        
+    }
     
 }

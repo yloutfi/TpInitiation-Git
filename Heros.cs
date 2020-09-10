@@ -1,3 +1,3 @@
-class personnage:Heros{
+class Heros:Personnage{
     
 }
